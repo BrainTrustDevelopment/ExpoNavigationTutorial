@@ -16,7 +16,7 @@ import SettingsScreen from './screens/SettingsScreen';
 const Tab = createBottomTabNavigator();
 
 // Your OpenWeatherMap API key (get yours at openweathermap.org)
-const API_KEY = '204e4c6455b32a870afe53535fe728c4'; // Replace with your actual API key
+const API_KEY = 'your_api_key_here'; // Replace with your actual API key
 
 export default function App() {
   // State to store weather data and user settings
